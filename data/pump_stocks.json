@@ -1,0 +1,29 @@
+[
+  {
+    "symbol": "DMN",
+    "price": 0.01,
+    "change%": 100.0,
+    "volume": 2966539300,
+    "avg_volume": 290309761,
+    "rsi": 37.5,
+    "timestamp": "2025-04-30T23:13:57.370444"
+  },
+  {
+    "symbol": "IVF",
+    "price": 2.39,
+    "change%": 48.45,
+    "volume": 81730180,
+    "avg_volume": 1480399,
+    "rsi": 61.22,
+    "timestamp": "2025-04-30T23:13:59.126918"
+  },
+  {
+    "symbol": "FRGT",
+    "price": 1.24,
+    "change%": 24.0,
+    "volume": 27415658,
+    "avg_volume": 1909015,
+    "rsi": 69.57,
+    "timestamp": "2025-04-30T23:14:01.730336"
+  }
+]
